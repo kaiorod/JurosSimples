@@ -35,7 +35,7 @@ namespace JurosSimples
             Console.WriteLine($"{j:C2}");
             Console.ResetColor();
             Console.Write($"Montante : ");
-            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.ForegroundColor = ConsoleColor.Darkyan;
             Console.WriteLine($"{m:C2}");
             Console.ResetColor();
             
